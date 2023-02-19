@@ -1,0 +1,15 @@
+
+Included files:
+	*preprocess
+		*preprocess.py
+		*README
+
+Running Instructions:
+
+	*just type "python3 preprocess.py <keep-stops/keep-digits/keep-symbols>"
+	 in the terminal and the program will run sucessfully, will print error
+	 message if value of mode is provided incorrectly.
+
+Notes and Assumptions:
+
+	* If there is no sys.argv[1] provided, I have called all the functions to run.
